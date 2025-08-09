@@ -41,11 +41,12 @@
 
 ---
 
-## 🗣️ Let's Connect!
+🗣️ Let's Connect!
+🔗 Visit my GitHub: github.com/DARSHAN2224
+🌐 Check out my Portfolio: portfolio-ruddy-seven-16.vercel.app
+💬 Ask me about projects, tech ideas, or collaborations.
 
-🔗 Visit my GitHub: [github.com/DARSHAN2224](https://github.com/DARSHAN2224)  
-💬 Ask me about projects, tech ideas, or collaborations.  
-📬 Coming Soon: Portfolio website, blogs, and project demos!
+📬 Coming Soon: Blogs and project demos!
 
 ---
 
