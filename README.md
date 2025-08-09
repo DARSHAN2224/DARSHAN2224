@@ -1,54 +1,84 @@
-# 👋 Hi, I'm Darshan P!
+# DARSHAN P
+### Backend Developer | Full-Stack Engineer | AI Innovator
 
-🎓 I'm currently pursuing my B.E. in **Computer Science and Engineering** at **Nagarjuna College of Engineering and Technology (NCET)**.  
-🚀 I’m passionate about **AI, Machine Learning, Deep Learning, Web Development**, and **cutting-edge technology & innovation**.  
-📈 My goal is to reach **top-tier coding and development levels** 
-
----
-
-## 🧠 What I'm Working On
-
-- 🤖 **AI/ML Projects** – Building predictive models in healthcare and mental health using Python.
-- 🛰️ **Drone Delivery System** – An innovative project for smart logistics using GPS, cameras, and QR verification.
-- 🧠 **Mental Health Recommender** – ML + Gemini API-powered chatbot that generates follow-up questions and gives personalized suggestions.
-- 🍔 **Multi-Shop Food Ordering System** – Built with Node.js, Express, MongoDB, and EJS with admin, seller, and user login systems.
-- 🧠 **Learning Full DSA** – Solving Leetcode and other platforms to strengthen data structures and algorithms.
+<a href="https://linkedin.com/in/pdarshan2224" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://portfolio-ruddy-seven-16.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 👋 About Me
 
-**Languages:**  
-`C++` (Competitive Programming) | `Python` (ML & AI Projects) | `JavaScript`  
+I am a **Computer Science** student at Nagarjuna College of Engineering and Technology (NCET), passionate about building scalable backend systems and intelligent AI applications. My work focuses on creating practical solutions, from AI-powered mental health tools to secure e-commerce platforms. My goal is to contribute to top-tier tech environments by solving complex problems with clean, efficient code.
 
-**Web Development:**  
-`Node.js`, `Express.js`, `MongoDB`, `React.js`, `Tailwind CSS`, `Zustand`, `Axios`, `EJS`
-
-**Machine Learning & AI:**  
-`Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`, `TensorFlow` (basics), `Gemini API`
-
-**Others:**  
-`Git & GitHub`, `Postman`, `VS Code`, `Flask`, `Email Verification`, `QR Code Integration`
+- 🎓 **Education:** B.E. in Computer Science & Engineering (Expected 2026)
+- 🔭 **Currently Focusing On:** Advanced DSA, System Design, and building production-ready AI models.
+- 🌱 **Goal:** To secure a challenging role at a product-based company like Google, Amazon, or Microsoft.
+- 💬 **Quote:** "I don’t memorize – I understand, build, and innovate."
 
 ---
 
-## 📌 Key Goals
+### 🛠️ My Tech Stack
 
-- 📚 Master **DSA and Competitive Programming** using C++
-- 🧠 Build real-world **AI-powered applications** and recommender systems
-- 🎯 Land a job at **top tech companies** like **Google**, **Amazon**, or **Microsoft**
-- 🗣️ Improve **spoken English**, **grammar**, and **presentation skills**
+<table>
+  <tr>
+    <td align="center" width="180">
+      <p><strong>Languages</strong></p>
+      <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+    </td>
+    <td align="center" width="180">
+      <p><strong>Backend</strong></p>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+      <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+    </td>
+    <td align="center" width="180">
+      <p><strong>Frontend</strong></p>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+      <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/public/logo.png" alt="Zustand" width="40" height="40"/></a>
+    </td>
+    <td align="center" width="180">
+      <p><strong>AI / ML</strong></p>
+      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-🗣️ Let's Connect!
-🔗 Visit my GitHub: github.com/DARSHAN2224
-🌐 Check out my Portfolio: portfolio-ruddy-seven-16.vercel.app
-💬 Ask me about projects, tech ideas, or collaborations.
+### 🚀 Featured Projects
 
-📬 Coming Soon: Blogs and project demos!
+Here are some of the key projects I've worked on. You can find more on my **[Portfolio](https://portfolio-ruddy-seven-16.vercel.app)**.
+
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Mental Health AI Assistant** | An AI chatbot that provides empathetic mental health support and personalized suggestions using the Gemini API. | `Python` `Flask` `Gemini API` | [Repo](link-to-repo) |
+| **Multi-Role Food Ordering System** | A full-stack e-commerce platform with separate dashboards for Admins, Sellers, and Users. | `Node.js` `Express` `MongoDB` `EJS` | [Repo](link-to-repo) |
+| **Telemedicine Web Platform** | A MERN stack application for secure video consultations. **(1st Prize Winner, Hackathon)** | `React` `Node.js` `WebRTC` `JWT` | [Repo](link-to-repo) |
+| **RFID E-Vehicle Starter** | An IoT security system to prevent unauthorized vehicle ignition. **(3rd Prize Winner, Hackathon)** | `Arduino` `Node.js` `Serial Comm` | [Repo](link-to-repo) |
 
 ---
 
-> “I don’t memorize – I understand, build, and innovate.”
+### 📊 My GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DARSHAN2224&show_icons=true&locale=en&theme=tokyonight" alt="dARSHAN2224" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DARSHAN2224&layout=compact&locale=en&theme=tokyonight" alt="dARSHAN2224" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to discussing new projects, tech ideas, or collaboration opportunities. Feel free to reach out!
+
+- 📧 **Email:** `pdarshan2224@gmail.com`
+- 💼 **LinkedIn:** [linkedin.com/in/pdarshan2224](https://linkedin.com/in/pdarshan2224)
