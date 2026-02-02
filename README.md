@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/pdarshan2224" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://portfolio-ruddy-seven-16.vercel.app" target="_blank">
+<a href="https://www.darshan-os.me/desktop" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
