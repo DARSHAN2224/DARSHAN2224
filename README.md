@@ -75,6 +75,13 @@ Here are some of the key projects I've worked on. You can find more on my **[Por
 </p>
 
 ---
+## Open Source
+
+- Interested in contributing to JavaScript/TypeScript,
+  Python, backend systems, AI/LLM tools, and developer tools.
+- Currently exploring open-source projects and contributing
+  bug fixes, documentation, tests, and features.
+- Open to collaboration and community-driven projects.
 
 ### 📫 Let's Connect
 
